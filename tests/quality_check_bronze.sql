@@ -1,6 +1,6 @@
 
 -- DATA QUALITY CHECKS OF BRONZE LAYER TABLES
-
+--NOTE: same data quality checks are used for silver layer tables
 ----------------------------------------------------
 -- checking data quality of CRM customer info table
 ----------------------------------------------------
